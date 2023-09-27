@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "image": "/personimg/p1.jpg",
+        "address": "123 Main Street, Cityville, USA",
+        "phone": "+1 (555) 123-4567",
+        "bio": "I'm a software engineer passionate about technology and innovation.",
+        "birthday": "30th August, 1992"
+    },
+    {
+        "id":2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "image": "/personimg/p4.jpg",
+        "address": "456 Elm Avenue, Townsville, USA",
+        "phone": "+1 (555) 987-6543",
+        "bio": "I'm an artist who loves to express creativity through painting and sculpture.",
+        "birthday": "28th September, 1998"
+    },
+    {
+        "id":3,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "image": "/personimg/p6.jpg",
+        "address": "789 Oak Road, Villagetown, USA",
+        "phone": "+1 (555) 789-0123",
+        "bio": "I'm a chef specializing in Italian cuisine and known for my pizza recipes.",
+        "birthday": "1st June, 1997"
+    },
+    {
+        "id":4,
+        "name": "Alice Brown",
+        "email": "alice.brown@example.com",
+        "image": "/personimg/p2.jpg",
+        "address": "567 Pine Lane, Hamletville, USA",
+        "phone": "+1 (555) 234-5678",
+        "bio": "I'm a marketing manager with a passion for branding and social media.",
+        "birthday": "3rd June, 2001"
+    },
+    {
+        "id":5,
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "image": "/personimg/p8.jpg",
+        "address": "890 Maple Street, Suburbia, USA",
+        "phone": "+1 (555) 345-6789",
+        "bio": "I'm a biologist researching marine ecosystems and conservation.",
+        "birthday": "2nd July, 1997"
+    },
+    {
+        "id":6,
+        "name": "Emily Turner",
+        "email": "emily.turner@example.com",
+        "image": "/personimg/p3.jpg",
+        "address": "234 Cedar Avenue, Riverside, USA",
+        "phone": "+1 (555) 456-7890",
+        "bio": "I'm a travel enthusiast and blogger exploring the world's wonders.",
+        "birthday": "1st January, 1997"
+    },
+    {
+        "id":7,
+        "name": "Linda Clark",
+        "email": "linda.clark@example.com",
+        "image": "/personimg/p5.jpg",
+        "address": "456 Birch Road, Mountainside, USA",
+        "phone": "+1 (555) 678-9012",
+        "bio": "I'm a teacher dedicated to fostering a love for learning in my students.",
+        "birthday": "21st December, 1992"
+    },
+    {
+        "id":8,
+        "name": "Daniel Lee",
+        "email": "daniel.lee@example.com",
+        "image": "/personimg/p7.jpg",
+        "address": "789 Pine Street, Lakeside, USA",
+        "phone": "+1 (555) 789-0123",
+        "bio": "I'm a journalist covering international affairs and human rights.",
+        "birthday": "23rd June, 1995"
+    }
+    
+]
